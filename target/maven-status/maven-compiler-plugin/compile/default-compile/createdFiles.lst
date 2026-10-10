@@ -1,0 +1,10 @@
+com\mycompany\leiloesrecuperacao\LeiloesRecuperacao.class
+com\mycompany\leiloesrecuperacao\LancesVIEW.class
+com\mycompany\leiloesrecuperacao\MenuVIEW.class
+com\mycompany\leiloesrecuperacao\ProdutosVIEW.class
+com\mycompany\leiloesrecuperacao\Cliente.class
+com\mycompany\leiloesrecuperacao\Produto.class
+com\mycompany\leiloesrecuperacao\ProdutosDAO.class
+com\mycompany\leiloesrecuperacao\Lance.class
+com\mycompany\leiloesrecuperacao\conectaDAO.class
+com\mycompany\leiloesrecuperacao\ClientesVIEW.class
